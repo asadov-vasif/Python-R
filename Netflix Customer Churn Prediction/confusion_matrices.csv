@@ -1,0 +1,10 @@
+Model,True Negative,False Positive,False Negative,True Positive
+Logistic Regression,668,85,61,686
+Naive Bayes,487,266,9,738
+KNN,613,140,110,637
+SVM,679,74,52,695
+Decision Tree,735,18,21,726
+Random Forest,738,15,23,724
+Extra Trees,702,51,43,704
+XGBoost,749,4,4,743
+LightGBM,749,4,5,742
